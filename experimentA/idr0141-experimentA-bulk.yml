@@ -1,0 +1,8 @@
+---
+path: "idr0141-experimentA-filePaths.tsv"
+continue: true
+transfer: "ln_s"
+columns:
+  - target
+  - path
+
