@@ -1,10 +1,10 @@
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_01.ome.tiff
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_02.ome.tiff
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_03.ome.tiff
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_04.ome.tiff
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_05.ome.tiff
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_06.ome.tiff
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_07.ome.tiff
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_08.ome.tiff
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_09.ome.tiff
-Dataset:name:tmp	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_10.ome.tiff
+Dataset:name:Skin	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_01.ome.tiff	Sokol_01
+Dataset:name:Skin	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_02.ome.tiff	Sokol_02
+Dataset:name:Skin	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_03.ome.tiff	Sokol_03
+Dataset:name:Skin	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_04.ome.tiff	Sokol_04
+Dataset:name:Skin	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_05.ome.tiff	Sokol_05
+Dataset:name:Skin	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_06.ome.tiff	Sokol_06
+Dataset:name:Skin	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_07.ome.tiff	Sokol_07
+Dataset:name:Mucosa	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_08.ome.tiff	Sokol_08
+Dataset:name:Mucosa	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_09.ome.tiff	Sokol_09
+Dataset:name:Mucosa	/uod/idr/filesets/idr0141-sokol-skinmucosa/20220829-ftp/Sokol_10.ome.tiff	Sokol_10
