@@ -19,6 +19,10 @@ columns:
     clientname: Description
     include: yes
 
+  - name: Experimental Condition [Sample ID]
+    clientname: Sample ID
+    include: yes
+
   - name: Comment [Nanotomy URL]
     clientname: Nanotomy URL
     include: yes
