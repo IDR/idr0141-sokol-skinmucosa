@@ -15,10 +15,9 @@ Study Organism Term Accession	9606
 Study Experiments Number	1																														
 Study External URL	http://www.nanotomy.org/OA/Sokol2015JID/index.html	
 
-
 Study BioImage Archive Accession			
 																								
-Study Public Release Date																												
+Study Public Release Date	2022-09-29																												
 																																	
 # Study Publication																																	
 Study PubMed ID	25789704																														
